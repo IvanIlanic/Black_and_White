@@ -1,0 +1,31 @@
+.pf__footer {
+    width: 100%;
+    background-color: #fff;
+   
+}
+ul{
+    list-style: none;
+    margin: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+li img{
+    width: 5rem;
+    transition: all 0.5s ease-in-out;
+}
+li img:hover{
+    width: 6rem;
+    
+}
+
+.pf__footer-copyright{ 
+    width: 100%;
+}
+.pf__footer-copyright p{
+    font-size: 1rem;
+    text-align: center;
+ 
+}

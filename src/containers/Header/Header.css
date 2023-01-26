@@ -1,0 +1,48 @@
+.pf__header-welcome {
+   text-align: center;
+   margin-bottom: 6rem;
+
+}
+.pf__header-welcome h1 {
+    font-size: 50px;
+    margin: 3rem 0rem;
+    line-height: 8rem;
+    font-weight: 400;
+}
+.pf__header-welcome_baw{
+   align-items: center;
+   
+    font-size: 90px;
+}
+.pf__header-welcome_b{
+    background-color: #000;
+    color: #fff;
+    display: inline-block;
+    padding: 0rem 2rem;
+    margin: 2rem;
+    
+}
+.pf__header-welcome_a {
+    display: inline-block;
+    margin: 2rem;
+}
+.pf__header-welcome_w {
+    display: inline-block;
+    margin: 2rem;
+    padding: 0rem 2rem;
+}
+.pf__header-containers {
+   align-content: center;
+    text-align: center;
+    font-weight: 400;
+    font-size: 22px;
+    background-color: #000;
+}
+
+.pf__header-containers_1 {
+    height: auto;
+    display: inline-block;
+    margin: 2rem;
+    padding: 2rem;
+    background-color: #fff;
+}

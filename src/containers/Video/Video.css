@@ -1,0 +1,28 @@
+.pf__video-text {
+    display: flex;
+    flex-direction: column; 
+     text-align: center;
+     font-size: 5rem;
+     font-weight: 500;
+    padding:5rem 1rem;
+    
+    transition: all 0.5s ease-in-out;
+}
+.pf__video-text:hover {
+    background-color: #000;
+    color: #fff;
+}
+
+.pf__video-gallery {
+    display: flex;
+    flex-direction: column-reverse;
+    width: 100%;
+}
+
+
+video {
+    display:flex;
+    background-color: #000;
+   
+    }
+

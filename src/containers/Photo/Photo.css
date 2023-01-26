@@ -1,0 +1,32 @@
+
+
+.pf__photo-text {
+   display: flex;
+   flex-direction: column; 
+    text-align: center;
+    font-size: 5rem;
+    font-weight: 500;
+   padding:5rem 1rem;
+  transition: all 0.5s ease-in-out;
+}
+.pf__photo-text:hover{
+  background-color: #000;
+  color: #fff;
+}
+
+.pf__photo-gallery {
+    display: flex;
+}
+.pf__photo-gallery_pic {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+.pf__photo-gallery_pic img {
+    object-fit: cover;
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+    
+  }
